@@ -1,4 +1,4 @@
-# 🤗 Welcome to GitHub
+# 🤗 Welcome to My GitHub
 
 > 개발 경력은 1년차이며 계속 새로운 기술을 계속 공부하고 있는 주니어 개발자입니다.
 
